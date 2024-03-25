@@ -1,0 +1,4 @@
+telebot==0.0.5
+telegram==0.0.1
+pyTelegramBotAPI==4.14.0
+anyio==3.7.1
